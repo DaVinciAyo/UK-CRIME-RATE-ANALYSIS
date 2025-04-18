@@ -1,1 +1,3 @@
-# UK-CRIME-RATE-ANALYSIS
+Tourists are always the target of criminals in any Country. The analysis below shows the crime rate and different crimes in 4 major regions in the United Kingdom (South Wales, North Wales, City of London, and Liverpool) reported by their respective Police Force. An estimated 99,410 crimes were committed in the selected region within the last quarter of 2024, with most crimes occurring in Merseyside. 
+
+It is not surprise that Mereyside has the highest has it house a large population in United Kingdom and house an high number of Clubs, meanwhile surprise for crime in London as it  also suppose to have an high number of crime because it also have an high population maybe its because the data is not complete or its one of the safest places among the 4 regions. It was also found that the leading crime happens to be Violence and Sexual Offences in all 4 region analyzed.
